@@ -2,7 +2,7 @@
 
 1. Organization จะ Implicitly Optimize และหลีกเลี่ยงการเปลี่ยนแปลงสถานะของพวก Middle หรือ First-Level Manager และ Specialists ต่าง ๆ
 1. จากข้อ 1 หมายความว่าการเปลี่ยนแปลงใด ๆ จะถูกลดทอนเหลือแค่การเปลี่ยนชื่อหรือปรับคำนิยามให้คล้าย ๆ ของเดิม (ซึ่งทำให้ไม่เกิดการเปลี่ยนแปลง)
-1. จากข้อ 1 หมายความว่า change ใด ๆ ก็ตาม จะถูกหัวเราะเยาะ ต่าง ๆ นานา เช่น ทฤษฎีจ๋า หรือ ต้องปรับให้เหมาะสมกับสถานการณ์จริง แล้วก็จะทำให้ถูกบิดเบียนจากที่เราจะแก้ปัญหา หรือข้อด้อยต่าง ๆ รวมไปถึงสถานะของพวก managers/specialists
+1. จากข้อ 1 หมายความว่า change ใด ๆ ก็ตาม จะถูกวิจารณ์ ต่าง ๆ นานา เช่น ทฤษฎีจ๋า หรือ ต้องปรับให้เหมาะสมกับสถานการณ์จริง แล้วก็จะทำให้ถูกบิดเบียนจากที่เราจะแก้ปัญหา หรือข้อด้อยต่าง ๆ รวมไปถึงสถานะของพวก managers/specialists
 1. As a corollary to (1), if after changing the change some managers and single-specialists are still displaced, they become “coaches/trainers” for the change, frequently reinforcing (2) and (3), and creating the false impression ‘the change has been done’, deluding senior management and future change attempts, after which they become industry consultants.
 1. (in large established orgs) Culture follows structure. And in tiny young orgs, structure follows culture.
 
