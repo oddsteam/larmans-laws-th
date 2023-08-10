@@ -6,7 +6,7 @@
 1. จากข้อ 1, ถ้าหลังจากปรับแก้ความเปลี่ยนแปลงแล้ว ยังมี managers และ single-specialists ที่ยังไม่มีที่ลงเหลืออยู่ พวกเขาจะกลายเป็น "coaches/trainers" สำหรับความเปลี่ยนแปลง (บ่อยครั้งจะยิ่งเน้น (2) และ (3) ให้ชัดยิ่งขึ้น) และสร้างภาพลักษณ์ปลอม ๆ ว่า 'เราสร้างความเปลี่ยนแปลงเสร็จแล้ว' หลอกลวงผู้บริหารระดับสูง และความพยายามที่จะเปลี่ยนแปลงใด ๆ ในอนาคต แล้วหลังจากนั้นพวกเขาก็จะกลายเป็น Consultant ในอุตสาหกรรมนั้น ๆ
 1. (ในองค์กรขนาดใหญ่) วัฒนธรรมจะเป็นไปตามโครงสร้างองค์กร และในองค์กรใหม่ ๆ ขนาดเล็ก ๆ โครงสร้างองค์กรจะเป็นไปตามวัฒนธรรม
 
-Elaboration:
+คำอธิบาย:
 
 A longer form is, In big established groups, culture/behavior/mindset follows and is influenced by changes in the organizational system and design. That is, in large established organizations, if you want to really change culture, you have to start with changing the organizational system (groups, teams, roles and responsibilities, hierarchies, career paths, policies, measurement and reward mechanisms, etc), because culture does not really change otherwise. Said another way, the organizational system is strongly influential on mindset and behavior.
 
