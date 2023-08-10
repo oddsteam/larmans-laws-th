@@ -3,8 +3,8 @@
 1. Organization แอบ optimize เพื่อหลีกเลี่ยงการเปลี่ยนแปลงตำแหน่งและฐานอำนาจของเหล่า Middle หรือ First-Level Manager และ Specialists ต่าง ๆ
 1. จากข้อ 1 หมายความว่าการเปลี่ยนแปลงใด ๆ จะถูกลดทอนเหลือแค่การเปลี่ยนชื่อหรือปรับคำนิยามใหม่ ๆ ให้คล้าย ๆ กับของเดิม (ซึ่งทำให้ไม่เกิดการเปลี่ยนแปลง)
 1. จากข้อ 1 หมายความว่าความเปลี่ยนแปลงใด ๆ ก็ตาม จะถูกวิจารณ์ ต่าง ๆ นานา เช่น ทฤษฎีจ๋า หรือ ต้องปรับให้เหมาะสมกับสถานการณ์จริง แล้วก็จะทำให้ถูกบิดเบียนจากที่เราจะแก้ปัญหา หรือข้อด้อยต่าง ๆ รวมไปถึงสถานะของพวก managers/specialists
-1. As a corollary to (1), if after changing the change some managers and single-specialists are still displaced, they become “coaches/trainers” for the change, frequently reinforcing (2) and (3), and creating the false impression ‘the change has been done’, deluding senior management and future change attempts, after which they become industry consultants.
-1. (in large established orgs) Culture follows structure. And in tiny young orgs, structure follows culture.
+1. จากข้อ 1, ถ้าหลังจากปรับแก้ความเปลี่ยนแปลงแล้ว ยังมี managers และ single-specialists ที่ยังไม่มีที่ลงเหลืออยู่ พวกเขาจะกลายเป็น "coaches/trainers" สำหรับความเปลี่ยนแปลง (บ่อยครั้งจะยิ่งเน้น (2) และ (3) ให้ชัดยิ่งขึ้น) และสร้างภาพลักษณ์ปลอม ๆ ว่า 'เราสร้างความเปลี่ยนแปลงเสร็จแล้ว' หลอกลวงผู้บริหารระดับสูง และความพยายามที่จะเปลี่ยนแปลงใด ๆ ในอนาคต แล้วหลังจากนั้นพวกเขาก็จะกลายเป็น Consultant ในอุตสาหกรรมนั้น ๆ
+1. (ในองค์กรขนาดใหญ่) วัฒนธรรมจะเป็นไปตามแผนผังองค์กร และในองค์กรใหม่ ๆ ขนาดเล็ก ๆ แผนผังองค์กรจะเป็นไปตามวัฒนธรรม
 
 Elaboration:
 
