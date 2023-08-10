@@ -14,6 +14,6 @@ The systems-thinking advocate John Seddon also observed this: "Attempting to cha
 
 This is an observation in big established organizations; in contrast, in small start ups, it's the reverse: structure follows culture. That is, the (probably simple and informal) organizational design reflects the mindset and culture of the small number of members in the start up. As the organization grows, at some point it usually reverses to culture follows structure.
 
-And "culture follows structure" (in large groups) is why purely “mindset” approaches such as organizational learning are not very sticky or impactful by themselves in large groups, and why frameworks such as Scrum (that have a strong focus on structural change at the start) tend to more quickly impact culture — if the structural change implications of Scrum are actually realized. 
+And "culture follows structure" (in large groups) is why purely “mindset” approaches such as organizational learning are not very sticky or impactful by themselves in large groups, and why frameworks such as Scrum (that have a strong focus on structural change at the start) tend to more quickly impact culture — if the structural change implications of Scrum are actually realized.
 
 แปลจาก [Larman's Laws of Organizational Behavior in English](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)
