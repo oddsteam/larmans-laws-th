@@ -8,11 +8,11 @@
 
 คำอธิบาย:
 
-A longer form is, In big established groups, culture/behavior/mindset follows and is influenced by changes in the organizational system and design. That is, in large established organizations, if you want to really change culture, you have to start with changing the organizational system (groups, teams, roles and responsibilities, hierarchies, career paths, policies, measurement and reward mechanisms, etc), because culture does not really change otherwise. Said another way, the organizational system is strongly influential on mindset and behavior.
+ในรูปแบบที่ยาวขึ้นคือ สำหรับกลุ่มคนขนาดใหญ่ วัฒนธรรม/พฤติกรรม/แนวคิด จะได้รับอิทธิพลและเป็นผลจากความเปลี่ยนแปลงในระบบและการออกแบบขององค์กร นั่นคือในองค์กรขนาดใหญ่ ถ้าคุณต้องการเปลี่ยนวัฒนธรรม คุณต้องเริ่มจากเปลี่ยนระบบของมัน (กลุ่ม, ทีม, บทบาทและหน้าที่, โครงสร้าง, career path, นโยบาย, การวัดผลและกลไกในการให้รางวัล, ฯลฯ) หากไม่ทำเช่นนี้วัฒนธรรมก็จะไม่เปลี่ยนอย่างแท้จริง หรือจะให้พูดอีกแบบคือ ระบบขององค์กรมีอิทธิพลอย่างมากกับแนวคิดและพฤติกรรม
 
-The systems-thinking advocate John Seddon also observed this: "Attempting to change an organization’s culture is a folly, it always fails. Peoples’ behavior (the culture) is a product of the system; when you change the system peoples’ behavior changes."
+ผู้นำด้าน systems-thinking อย่าง John Seddon แบ่งปันข้อสังเกตว่า "การพยายามจะเปลี่ยนวัฒนธรรมองค์กรนั้นเป็นเรื่องโง่เขลา มันจะล้มเหลวเสมอ พฤติกรรมของผู้คน (วัฒนธรรม) เป็นผลผลิตของระบบ ถ้าคุณเปลี่ยนระบบ พฤติกรรมของผู้คนก็จะเปลี่ยน"
 
-This is an observation in big established organizations; in contrast, in small start ups, it's the reverse: structure follows culture. That is, the (probably simple and informal) organizational design reflects the mindset and culture of the small number of members in the start up. As the organization grows, at some point it usually reverses to culture follows structure.
+นี่คือข้อสังเกตจากองค์กรขนาดใหญ่ที่อยู่มานาน ในทางกลับกัน สำหรับ start up ขนาดเล็ก มันจะกลับกัน โครงสร้างจะเป็นไปตามวัฒนธรรม หมายความว่า สำหรับองค์กรที่เรียบง่ายและเป็นกันเองการออกแบบจะสะท้อนแนวคิดและวัฒนธรรมของคนกลุ่มน้อยใน start up และเมื่อองค์กรเติบโตไปเรื่อย ๆ จนถึงจุดหนึ่ง มันก็จะกลับกลายเป็น วัฒนธรรมเป็นไปตามโครงสร้าง
 
 And "culture follows structure" (in large groups) is why purely “mindset” approaches such as organizational learning are not very sticky or impactful by themselves in large groups, and why frameworks such as Scrum (that have a strong focus on structural change at the start) tend to more quickly impact culture — if the structural change implications of Scrum are actually realized.
 
