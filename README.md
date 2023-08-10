@@ -14,6 +14,6 @@
 
 นี่คือข้อสังเกตจากองค์กรขนาดใหญ่ที่อยู่มานาน ในทางกลับกัน สำหรับ start up ขนาดเล็ก มันจะกลับกัน โครงสร้างจะเป็นไปตามวัฒนธรรม หมายความว่า สำหรับองค์กรที่เรียบง่ายและเป็นกันเองการออกแบบจะสะท้อนแนวคิดและวัฒนธรรมของคนกลุ่มน้อยใน start up และเมื่อองค์กรเติบโตไปเรื่อย ๆ จนถึงจุดหนึ่ง มันก็จะกลับกลายเป็น วัฒนธรรมเป็นไปตามโครงสร้าง
 
-And "culture follows structure" (in large groups) is why purely “mindset” approaches such as organizational learning are not very sticky or impactful by themselves in large groups, and why frameworks such as Scrum (that have a strong focus on structural change at the start) tend to more quickly impact culture — if the structural change implications of Scrum are actually realized.
+และ "วัฒนธรรมเป็นไปตามโครงสร้าง" (ในกลุ่มคนใหญ่ ๆ) เป็นสาเหตุที่การปรับ "แนวคิด" ล้วน ๆ เช่น ให้ความรู้กับทั้งองค์กรไม่ค่อยติดหรือได้ผลสักเท่าไหร่ในกลุ่มคนใหญ่ ๆ และอธิบายว่าทำไม framework อย่างสกรัม (ที่เน้นการปรับโครงสร้างตั้งแต่แรก) มักจะส่งผลกระทบกับวัฒนธรรมมากกว่า ถ้าการปรับเปลี่ยนโครงสร้างที่สกรัมแนะนำถูกทำจริง ๆ
 
 แปลจาก [Larman's Laws of Organizational Behavior in English](https://www.craiglarman.com/wiki/index.php?title=Larman%27s_Laws_of_Organizational_Behavior)
